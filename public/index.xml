@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>W.C. Braccini</title>
-    <link>http://localhost:1313/</link>
+    <link>https://wcbraccini.com/</link>
     <description>Recent content on W.C. Braccini</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 30 Apr 2026 19:40:33 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://wcbraccini.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://wcbraccini.com/about/</link>
       <pubDate>Thu, 30 Apr 2026 19:40:33 -0700</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://wcbraccini.com/about/</guid>
       <description></description>
     </item>
     <item>
       <title>Books</title>
-      <link>http://localhost:1313/books/</link>
+      <link>https://wcbraccini.com/books/</link>
       <pubDate>Thu, 30 Apr 2026 19:40:33 -0700</pubDate>
-      <guid>http://localhost:1313/books/</guid>
+      <guid>https://wcbraccini.com/books/</guid>
       <description></description>
     </item>
   </channel>
