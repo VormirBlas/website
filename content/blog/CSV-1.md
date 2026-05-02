@@ -1,5 +1,5 @@
 ---
-date: '3276-05-02'
+date: '2026-05-02'
 draft: false
 title: 'Chronicle of the Shattered Veil 1'
 ---
