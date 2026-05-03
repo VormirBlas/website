@@ -7,4 +7,4 @@ title: 'About'
 W.C. Braccini is a science fiction writer exploring what happens when humanity reaches past the limits of its understanding.
 
 *Short Stories comming soon*
-*Novels comming...eventually*
+*Novels coming...eventually*

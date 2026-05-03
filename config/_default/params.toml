@@ -23,6 +23,11 @@ fingerprintAlgorithm = "sha256"
   name = "W.C. Braccini"
   headline = "Science Fiction Author"
   bio = "Imagining the Future."
+  links = [
+    {x-twitter = https://x.com/Vormir_Blas },
+    {bluesky = https://bsky.app/profile/wcbraccini.bsky.social },
+    { Kofi = https://buymeacoffee.com/VormirBlas },
+  ]
 
 [header]
   layout = "basic" # valid options: basic, hamburger, hybrid, custom
