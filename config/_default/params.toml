@@ -24,9 +24,9 @@ fingerprintAlgorithm = "sha256"
   headline = "Science Fiction Author"
   bio = "Imagining the Future."
   links = [
-    {x-twitter = https://x.com/Vormir_Blas },
-    {bluesky = https://bsky.app/profile/wcbraccini.bsky.social },
-    { Kofi = https://buymeacoffee.com/VormirBlas },
+    { x-twitter = "https://x.com/Vormir_Blas" },
+    { bluesky = "https://bsky.app/profile/wcbraccini.bsky.social" },
+    { kofi = "https://buymeacoffee.com/VormirBlas" },
   ]
 
 [header]
@@ -42,7 +42,7 @@ fingerprintAlgorithm = "sha256"
   showScrollToTop = true
 
 [homepage]
-  layout = "page" # valid options: page, profile, custom
+  layout = "profile" # valid options: page, profile, custom
   showRecent = false
   recentLimit = 5
 
